@@ -49,6 +49,10 @@ form .input-box{
     margin: 12px 0;
 }
 
+.field.error .item{
+    border: 2px solid #d93025;
+}
+
 .field .item::placeholder{
     color: rgba(255,255,255 .3);
 }
@@ -59,6 +63,10 @@ form .input-box{
     text-align: left;
     margin: -5px 0 10px;
     display: none;
+}
+
+.field.error .error-txt{
+    display: block;
 }
 
 form .textarea-field .item{

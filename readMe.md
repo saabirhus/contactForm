@@ -1,4 +1,7 @@
 Today is Thursday 4th May and I will be building this contact form for a personal project that i failed to complete a while ago. I wanted to start afresh and see if I can still complete it to a good standard. My aim is to never finish this project because there is something i can do to improve it or change it. I will log any improvement/update I make in this readME file so that I can look back at this in the future.
 
-Update 1(4th May 2024);
+Update 1(4th May 2024):
 At the moment, I have have the html for the website and the css as well. I will aim to finish the javascript soon so that I can error handle and whatnot. In the future, i would like to be able to save data in a file or in an online databse.
+
+Update 2 (6th May 2024):
+I have added the error handling work and added an alert using sweetalert2 whenever a user attempts to submit their answers. there is also an alert that has an error message if there are inputs that are left empty or are invalid. i haven't finished it as the alert error message shows up even if all of the inputs are correctly submitted but that is something i will atempt to finish at a later date. for now the form is coming together, i would like to eventually convert this into react, idk if its somehing worth doing but we will see!
